@@ -1,0 +1,37 @@
+html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, form, fieldset, table, th, td { margin: 0; padding: 0; } 
+
+
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+  float: right;
+}
+th {
+  text-align: center;
+}
+
+.h1 { 
+  color:red
+}
+
+
+.title {
+  color: red;
+}
+
+.nav {
+  float: right;
+}
+
+ul {
+  position: absolute;
+}
+li {
+  display:inline;
+}
+
+.com {
+  padding-left:20px;
+}
